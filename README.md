@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hey, I'm [Your Name] 👋
 
-<!--
-**dhavaltirgar/dhavaltirgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA grad • Python Backend Developer • Ahmedabad, India
 
-Here are some ideas to get you started:
+6 months of real internship experience building backend systems.
+Currently doing Data Science at IIT Guwahati (Daksh Gurukul).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏥 Main Project — ClinicFlow
+
+A full-stack clinic management system I built independently
+during my internship (with senior guidance).
+
+**Tech:** Django · DRF · JWT · Celery · Redis · Pandas · MySQL · Bootstrap 5
+
+- 3-tier role system — Admin, Doctor, Receptionist
+- 14 REST APIs with JWT auth, full CRUD + search + filters
+- Async tasks via Celery+Redis — appointment reminders, daily email reports
+- Pandas dashboard — revenue reports, doctor performance, CSV export
+- 8 Django apps, 6 DB models, Postman tested
+
+🔗 [View Repository](https://github.com/YOURUSERNAME/clinicflow)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
