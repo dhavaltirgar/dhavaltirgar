@@ -35,7 +35,7 @@ during my internship (with senior guidance).
 - Pandas dashboard — revenue reports, doctor performance, CSV export
 - 8 Django apps, 6 DB models, Postman tested
 
-🔗 [View Repository](https://github.com/YOURUSERNAME/clinicflow)
+🔗 [View Repository](https://github.com/dhavaltirgar/clinicflow)
 
 ---
 
