@@ -1,9 +1,9 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Dhaval Tirgar👋
 
 MCA grad • Python Backend Developer • Ahmedabad, India
 
-6 months of real internship experience building backend systems.
-Currently doing Data Science at IIT Guwahati (Daksh Gurukul).
+🐍 Python & Django Backend Developer with 6 months of internship experience building real-world backend systems.
+📊 Currently pursuing a Data Science program at IIT Guwahati (Daksh Gurukul).
 
 ---
 
